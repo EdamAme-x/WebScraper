@@ -1,6 +1,0 @@
-import { WebScraper } from "./mod.ts";
-const ws = new WebScraper("https://google.com");
-// Title
-const DOM = await ws.getHTML();
-console.log(DOM.title);
-//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImZpbGU6Ly8vaG9tZS9ydW5uZXIvV2ViU2NyYXBlci9leGFtcGxlLnRzIl0sInNvdXJjZXNDb250ZW50IjpbImltcG9ydCB7IFdlYlNjcmFwZXIgfSBmcm9tIFwiLi9tb2QudHNcIjtcblxuY29uc3Qgd3MgPSBuZXcgV2ViU2NyYXBlcihcImh0dHBzOi8vZ29vZ2xlLmNvbVwiKTtcbi8vIFRpdGxlXG5cbmNvbnN0IERPTSA9IGF3YWl0IHdzLmdldEhUTUwoKTtcblxuY29uc29sZS5sb2coRE9NLnRpdGxlKTtcbiJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSxTQUFTLFVBQVUsUUFBUSxXQUFXO0FBRXRDLE1BQU0sS0FBSyxJQUFJLFdBQVc7QUFDMUIsUUFBUTtBQUVSLE1BQU0sTUFBTSxNQUFNLEdBQUcsT0FBTztBQUU1QixRQUFRLEdBQUcsQ0FBQyxJQUFJLEtBQUsifQ==
