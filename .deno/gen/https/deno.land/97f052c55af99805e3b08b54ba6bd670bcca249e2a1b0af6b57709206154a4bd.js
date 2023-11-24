@@ -1,0 +1,4 @@
+/**
+ * Used to enforce illegal constructors
+ */ export const CTOR_KEY = Symbol();
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImh0dHBzOi8vZGVuby5sYW5kL3gvZGVub19kb21AdjAuMS40My9zcmMvY29uc3RydWN0b3ItbG9jay50cyJdLCJzb3VyY2VzQ29udGVudCI6WyIvKipcbiAqIFVzZWQgdG8gZW5mb3JjZSBpbGxlZ2FsIGNvbnN0cnVjdG9yc1xuICovXG5cbmV4cG9ydCBjb25zdCBDVE9SX0tFWSA9IFN5bWJvbCgpO1xuIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOztDQUVDLEdBRUQsT0FBTyxNQUFNLFdBQVcsU0FBUyJ9
